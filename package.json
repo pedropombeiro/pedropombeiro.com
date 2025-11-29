@@ -6,6 +6,5 @@
     "express": "^4.19.2",
     "html5-boilerplate": "^8.0.0"
   },
-  "devDependencies": {},
-  "packageManager": "yarn@1.22.22"
+  "devDependencies": {}
 }

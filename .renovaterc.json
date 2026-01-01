@@ -6,7 +6,7 @@
     ":pinSkipCi",
     ":prImmediately",
     ":separateMultipleMajorReleases",
-    "group:nodeJs",
+    "group:nodeJs"
   ],
   "lockFileMaintenance": { "enabled": true },
   "automerge": true,

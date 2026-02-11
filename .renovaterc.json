@@ -11,6 +11,6 @@
   "lockFileMaintenance": { "enabled": true },
   "automerge": true,
   "automergeStrategy": "squash",
-  "commitMessagePrefix": "AUTOMERGE: ",
+  "commitMessagePrefix": "`AUTOMERGE`: ",
   "platformAutomerge": true
 }

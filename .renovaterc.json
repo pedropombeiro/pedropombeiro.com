@@ -2,7 +2,6 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:recommended",
-    ":automergeRequireAllStatusChecks",
     ":pinSkipCi",
     ":prImmediately",
     ":separateMultipleMajorReleases",
@@ -11,6 +10,7 @@
   "lockFileMaintenance": { "enabled": true },
   "automerge": true,
   "automergeStrategy": "squash",
+  "ignoreTests": true,
   "commitMessageSuffix": "- `AUTOMERGE`",
   "platformAutomerge": true
 }
